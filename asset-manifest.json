@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saye/static/css/main.42196bd8.css",
+    "main.js": "/saye/static/js/main.fe0af1d0.js",
+    "static/js/787.be9a6466.chunk.js": "/saye/static/js/787.be9a6466.chunk.js",
+    "static/media/birthday_cake.png": "/saye/static/media/birthday_cake.7e0a89b920bbac88bf9a.png",
+    "static/media/img6.jpg": "/saye/static/media/img6.2960dd6b8393606ed8ea.jpg",
+    "static/media/img4.jpg": "/saye/static/media/img4.ecf07b064a85407be783.jpg",
+    "static/media/img3.jpg": "/saye/static/media/img3.e5af331a718305b66615.jpg",
+    "static/media/img5.jpg": "/saye/static/media/img5.04c4518edb13dbf90ca0.jpg",
+    "static/media/img7.jpg": "/saye/static/media/img7.7d699f028d0665cfac0e.jpg",
+    "static/media/img2.jpg": "/saye/static/media/img2.9f9128084b33662b9868.jpg",
+    "static/media/img1.jpg": "/saye/static/media/img1.c790173e87ca7e956e38.jpg",
+    "index.html": "/saye/index.html",
+    "main.42196bd8.css.map": "/saye/static/css/main.42196bd8.css.map",
+    "main.fe0af1d0.js.map": "/saye/static/js/main.fe0af1d0.js.map",
+    "787.be9a6466.chunk.js.map": "/saye/static/js/787.be9a6466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42196bd8.css",
+    "static/js/main.fe0af1d0.js"
+  ]
+}
